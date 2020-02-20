@@ -1,0 +1,5 @@
+- install & configure webpack
+- install & configure babel
+- install react
+- include the resulting bundle into an HTML oage
+- install & configure webpack dev server
